@@ -9,6 +9,6 @@
 
 | Alg. | ImageNet | Parma | Madds | GPUdays | extra. |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
-| DART([code-official](https://github.com/quark0/darts), [code](https://github.com/IlyaTrofimov/pt.darts)) | 26.7 | 4.7 | 574 | searched on CIFAR10 |
+| DART([code-official](https://github.com/quark0/darts), [code](https://github.com/IlyaTrofimov/pt.darts)) | 26.7 | 4.7 | 574 | 4 | searched on CIFAR10 |
 | [PC-DART](https://github.com/yuhuixu1993/PC-DARTS) |  | |  | |
 | [P-DART](https://github.com/chenxin061/pdarts)     |  |  |  | |
