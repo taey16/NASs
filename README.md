@@ -1,4 +1,4 @@
 # NASs
 
-## DART
-### https://github.com/quark0/darts
+### DART
+#### Differentiable architecture search for convolutional and recurrent networks [code-official](https://github.com/quark0/darts)
