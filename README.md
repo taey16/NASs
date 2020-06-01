@@ -14,3 +14,4 @@
 | [P-DART](https://github.com/chenxin061/pdarts)     | 24.40 | 4.9| 557 | 0.3 |  CIFAR10 |
 | FBNET([unofficial](https://github.com/AnnaAraslanova/FBNet),[pretrained](https://github.com/facebookresearch/mobile-vision)) | 25.90 | 4.5 | 295 | 216 | ImageNet |
 | FBNET-v2([pretrained](https://github.com/facebookresearch/mobile-vision)) | 22.80 | | 325 | 600 | ImageNet |
+| ChamNet-A | 24.60 | | 553 | | ImageNet |
