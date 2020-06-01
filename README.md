@@ -7,9 +7,9 @@
 | [PC-DART](https://github.com/yuhuixu1993/PC-DARTS) | 2.57 | 3.6 | 0.1 | |
 | [P-DART](https://github.com/chenxin061/pdarts) | 2.50 | 3.4 | 0.3 | |
 
-| Alg. | ImageNet | Parma | Madds | GPUdays | extra. |
+| Alg. | ImageNet | Parma | FLOPs | GPUdays | extra. |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
 | DART([code-official](https://github.com/quark0/darts), [code](https://github.com/IlyaTrofimov/pt.darts)) | 26.7 | 4.7 | 574 | 4 | searched on CIFAR10 |
 | [PC-DART](https://github.com/yuhuixu1993/PC-DARTS) | 24.20  | 5.3 | 597 | 3.8 | searched on ImageNet |
 | [P-DART](https://github.com/chenxin061/pdarts)     | 24.40 | 4.9| 557 | 0.3 | searched on CIFAR10 |
-| FBNET([unofficial](https://github.com/AnnaAraslanova/FBNet)),[pretrained](https://github.com/facebookresearch/mobile-vision) | 23.90 | 4.5 | 295/2 | 216 | |
+| FBNET([unofficial](https://github.com/AnnaAraslanova/FBNet)),[pretrained](https://github.com/facebookresearch/mobile-vision) | 23.90 | 4.5 | 295 | 216 | |
