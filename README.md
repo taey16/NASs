@@ -12,4 +12,4 @@
 | DART([code-official](https://github.com/quark0/darts), [code](https://github.com/IlyaTrofimov/pt.darts)) | 26.7 | 4.7 | 574 | 4 | searched on CIFAR10 |
 | [PC-DART](https://github.com/yuhuixu1993/PC-DARTS) | 24.20  | 5.3 | 597 | 3.8 | searched on ImageNet |
 | [P-DART](https://github.com/chenxin061/pdarts)     | 24.40 | 4.9| 557 | 0.3 | searched on CIFAR10 |
-| FBNET([unofficial](https://github.com/AnnaAraslanova/FBNet),[pretrained](https://github.com/facebookresearch/mobile-vision) | | | | | |
+| FBNET([unofficial](https://github.com/AnnaAraslanova/FBNet)),[pretrained](https://github.com/facebookresearch/mobile-vision) | | | | | |
