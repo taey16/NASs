@@ -1,4 +1,4 @@
-# NASs
+# DNASs
 
 ### DARTs
 | Alg. | C10 | Parma | GPUdays | layers |
