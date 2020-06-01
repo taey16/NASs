@@ -13,3 +13,4 @@
 | [PC-DART](https://github.com/yuhuixu1993/PC-DARTS) | 24.20  | 5.3 | 597 | 3.8 | ImageNet |
 | [P-DART](https://github.com/chenxin061/pdarts)     | 24.40 | 4.9| 557 | 0.3 |  CIFAR10 |
 | FBNET([unofficial](https://github.com/AnnaAraslanova/FBNet),[pretrained](https://github.com/facebookresearch/mobile-vision)) | 23.90 | 4.5 | 295 | 216 | ImageNet |
+| FBNET-v2([pretrained](https://github.com/facebookresearch/mobile-vision)) | 22.80 | | 325 | 600 | ImageNet |
